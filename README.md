@@ -1,5 +1,6 @@
 # 🏠 Bangalore House Price Prediction
 
+# [Project live demo](https://prediction-6hjjaiz6voyozgdkbbqlek.streamlit.app/)
 A machine learning project that predicts house prices in Bangalore, India using Ridge Regression. The project includes a complete data preprocessing pipeline and an interactive web application built with Streamlit.
 
 ## 📋 Table of Contents
